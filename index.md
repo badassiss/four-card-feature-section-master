@@ -1,37 +1,84 @@
-## Welcome to GitHub Pages
+<html>
 
-You can use the [editor on GitHub](https://github.com/badassiss/four-card-feature-section-master/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <link rel="stylesheet" href="es.css"> </head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+    <div>
+        <div class="head">
+            <p>Reliable, efficient delivery</p>
+            <h2><b>Powered by technology</b></h2>
+        </div>
+        <p id="prp">our artificial intelligence powred tools use million of project data </br>points to ensure that your project is succsseful </p>
+    </div>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+    <div class="coupon">
+        <div class="container" class="title">
+            <h3><b>Team Builder</b></h3>
+        </div>
 
-# Header 1
-## Header 2
-### Header 3
+        <div class="container">
 
-- Bulleted
-- List
+            <p class="para">scans our talent network to create the optimal team for your project</p>
+        </div>
+        <div class="container">
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+            <img src="file:///C:/Users/PersoPc/Documents/four-card-feature-section-master/images/icon-team-builder.svg" class="image">
+        </div>
+    </div>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    <div class="coupon2">
+        <div class="container" class="title">
+            <h3>Supervisor</h3>
+        </div>
 
-### Jekyll Themes
+        <div class="container">
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/badassiss/four-card-feature-section-master/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+            <p class="para">monitor activity to identify project roadblocks</p>
+        </div>
+        <div class="container">
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+            <img src="file:///C:/Users/PersoPc/Documents/four-card-feature-section-master/images/icon-supervisor.svg" class="image">
+        </div>
+    </div>
+
+    <div class="coupon3">
+        <div class="container" class="title">
+            <h3>karma</h3>
+        </div>
+
+        <div class="container">
+
+            <p class="para">regularly evaluates ourtalent to ensure quality </p>
+        </div>
+        <div class="container">
+
+
+            <img src="file:///C:/Users/PersoPc/Documents/four-card-feature-section-master/images/icon-karma.svg" class="image">
+        </div>
+    </div>
+
+    <div class="coupon4">
+        <div class="container" class="title">
+            <h3>Calculator</h3>
+        </div>
+
+        <div class="container">
+
+            <p class="para"> Use data from past projects to provide better delivery estimates </p>
+        </div>
+        <div class="container">
+
+
+            <img src=file:///C:/Users/PersoPc/Documents/four-card-feature-section-master/images/icon-calculator.svg class="image">
+        </div>
+    </div>
+
+</body>
+
+</html>
